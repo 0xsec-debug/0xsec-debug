@@ -16,7 +16,8 @@
  
 
 
-# 💫 About Me:
+# Multidisciplinary 🛡️⚔️:
+
 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>Building secure, scalable, and intelligent systems — ranging from full-stack web applications and Android apps to security tools, penetration testing frameworks, and ML-powered security solutions. My focus is on writing clean, efficient code with security-by-design principles.<br><br>🤝 I’m looking to collaborate on<br>Cybersecurity projects, ethical hacking tools, security software, ML-based threat detection systems, and open-source security research. Always interested in working with people who care about defensive & offensive security, automation, and real-world impact.<br><br>🛡️ I’m looking for help with<br>Advanced exploit development, red teaming techniques, malware analysis, reverse engineering, and improving the robustness of large-scale secure architectures.<br><br>🌱 I’m currently learning<br>Advanced penetration testing, cloud security, secure system design, AI/ML for cybersecurity, and modern attack & defense methodologies to stay ahead in the evolving threat landscape.<br><br>💬 Ask me about<br>Ethical hacking, penetration testing, web & mobile security, full-stack development, machine learning, C++, Python, Java, Android development, or anything related to building secure applications.<br><br>⚡ Fun fact<br>I don’t just break systems — I understand them deeply enough to rebuild them stronger 🔐⚙️
 
 <div align="center"> 
